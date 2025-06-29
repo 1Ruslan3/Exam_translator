@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\Exam\Trie\obj\Debug\net8.0\Trie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exam\Trie\obj\Debug\net8.0\Trie.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exam\Trie\obj\Debug\net8.0\Trie.AssemblyInfo.cs
+C:\Users\user\source\repos\Exam\Trie\obj\Debug\net8.0\Trie.csproj.CoreCompileInputs.cache
