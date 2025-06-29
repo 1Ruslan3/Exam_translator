@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Exam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A72D5358-E4FD-4C75-A694-1AC31FA5C231}|RPN\\RPN.csproj|c:\\users\\user\\source\\repos\\exam\\rpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72D5358-E4FD-4C75-A694-1AC31FA5C231}|RPN\\RPN.csproj|solutionrelative:rpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FAD01D82-32AF-4245-AA29-B6B13DCBD1E4}|Trie\\Trie.csproj|c:\\users\\user\\source\\repos\\exam\\trie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAD01D82-32AF-4245-AA29-B6B13DCBD1E4}|Trie\\Trie.csproj|solutionrelative:trie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,12 +41,21 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\RPN\\Program.cs",
+              "RelativeDocumentMoniker": "RPN\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\RPN\\Program.cs",
+              "RelativeToolTip": "RPN\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T16:30:56.793Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Trie\\Program.cs",
               "RelativeDocumentMoniker": "Trie\\Program.cs",
@@ -55,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\BST\\Program.cs",
               "RelativeDocumentMoniker": "BST\\Program.cs",
@@ -63,8 +76,11 @@
               "RelativeToolTip": "BST\\Program.cs",
               "ViewState": "AgIAAHsAAAAAAAAAAAAAAIUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T12:46:36.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T12:46:36.157Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
