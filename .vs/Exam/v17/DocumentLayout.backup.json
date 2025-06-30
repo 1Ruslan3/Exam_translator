@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Exam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{10A9D39A-708E-4514-A963-2C5A99A613E5}|Stack\\Stack.csproj|c:\\users\\user\\source\\repos\\exam\\stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A9D39A-708E-4514-A963-2C5A99A613E5}|Stack\\Stack.csproj|solutionrelative:stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A72D5358-E4FD-4C75-A694-1AC31FA5C231}|RPN\\RPN.csproj|c:\\users\\user\\source\\repos\\exam\\rpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A72D5358-E4FD-4C75-A694-1AC31FA5C231}|RPN\\RPN.csproj|solutionrelative:rpn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,6 +48,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Stack\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\Stack\\Program.cs",
+              "RelativeToolTip": "Stack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:54:35.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\RPN\\Program.cs",
               "RelativeDocumentMoniker": "RPN\\Program.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\Exam\\RPN\\Program.cs",
@@ -55,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\Trie\\Program.cs",
               "RelativeDocumentMoniker": "Trie\\Program.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Trie\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T15:09:53.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-29T15:09:53.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exam\\BST\\Program.cs",
               "RelativeDocumentMoniker": "BST\\Program.cs",
@@ -77,10 +93,6 @@
               "ViewState": "AgIAAHsAAAAAAAAAAAAAAIUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T12:46:36.157Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
